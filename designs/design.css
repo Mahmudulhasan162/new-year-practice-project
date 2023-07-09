@@ -106,8 +106,37 @@ padding: 0 15px;
     color: var(--dark-01, #151414);
     text-align: center;
     font-family: Work Sans;
-    font-size: 40px;
+    font-size: 45px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+}
+.myplans{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    gap: 100px;
+}
+skills{
+    margin: 50px;
+}
+.skill_icon{
+    text-align: center;
+    padding: 20px;
+}
+.skill_h3{
+    color:  #151414;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+
+}
+.skill_p{
+    color: #737272;
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+}
+.skill_img{
+    text-align: center;
 }
